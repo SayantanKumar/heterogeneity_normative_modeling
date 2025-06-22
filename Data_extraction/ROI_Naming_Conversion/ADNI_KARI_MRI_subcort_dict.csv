@@ -1,0 +1,25 @@
+﻿ADNI MRI,ggseg,KARI MRI
+Brainstem   ,Brain-Stem,MR_TOTV_BRAINSTEM
+CorpusCallosumAnterior   ,CC_Anterior,MR_TOTV_CRPCLM_ANT
+CorpusCallosumCentral   ,CC_Central,MR_TOTV_CRPCLM_CNTRL
+CorpusCallosumMidAnterior   ,CC_Mid_Anterior,MR_TOTV_CRPCLM_MID_ANT
+CorpusCallosumMidPosterior   ,CC_Mid_Posterior,MR_TOTV_CRPCLM_MID_POST
+CorpusCallosumPosterior   ,CC_Posterior,MR_TOTV_CRPCLM_POST
+LeftAccumbensArea   ,Left-Accumbens-Area,MR_LV_ACCUMBENS
+LeftAmygdala   ,Left-Amygdala,MR_LV_AMYGDALA
+LeftCaudate   ,Left-Caudate,MR_LV_CAUD
+LeftHippocampus   ,Left-Hippocampus,MR_LV_HIPPOCAMPUS
+LeftPallidum   ,Left-Pallidum,MR_LV_PALLIDUM
+LeftPutamen   ,Left-Putamen,MR_LV_PUTAMEN
+LeftThalamus   ,Left-Thalamus,MR_LV_THALAMUS
+LeftChoroidPlexus,Left-Choroid-Plexus,MR_LV_CHORPLEX 
+LeftVentralDC   ,Left-VentralDC,MR_LV_VENTRALDC
+RightAccumbensArea   ,Right-Accumbens-Area,MR_RV_ACCUMBENS
+RightAmygdala   ,Right-Amygdala,MR_RV_AMYGDALA
+RightCaudate   ,Right-Caudate,MR_RV_CAUD
+RightHippocampus   ,Right-Hippocampus,MR_RV_HIPPOCAMPUS
+RightPallidum   ,Right-Pallidum,MR_RV_PALLIDUM
+RightPutamen   ,Right-Putamen,MR_RV_PUTAMEN
+RightThalamus   ,Right-Thalamus,MR_RV_THALAMUS
+RightVentralDC   ,Right-VentralDC,MR_RV_VENTRALDC
+RightChoroidPlexus,Right-Choroid-Plexus,MR_RV_CHORPLEX 
