@@ -1,5 +1,5 @@
 # Overview
-This repository contains the implementation for our paper titled "Analysing heterogeneity in Alzheimer Disease using multimodal normative modelling on ATN biomarkers", under review in Alzheimer's & Dementia [[BiorXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473626/)] 
+This repository contains the implementation for our paper titled "Analysing heterogeneity in Alzheimer Disease using multimodal normative modelling on ATN biomarkers", published in Alzheimer's & Dementia [[Paper](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70143)] 
 
 <img align="center" width="60%" height="75%" src="Figures & tables/Figure S1.png">
 
